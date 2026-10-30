@@ -1,4 +1,10 @@
 __pycache__/
 *.pyc
 .venv/
+.ipynb_checkpoints/
+.env
 log.csv
+ml/reports/
+ml/output_with_anomalies.csv
+.DS_Store
+Thumbs.db
